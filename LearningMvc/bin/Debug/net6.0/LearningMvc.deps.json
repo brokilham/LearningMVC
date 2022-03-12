@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LearningMvc/1.0.0": {
+        "runtime": {
+          "LearningMvc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearningMvc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
